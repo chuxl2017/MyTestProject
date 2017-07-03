@@ -10,4 +10,4 @@ FreeTransfer是携程开发的一套基于互联网应用的开源电话转接�
 
 # 架构图
 
-![](./img/freetransfer_arch.png)
+![freetransfer](./img/freetransfer_arch.png)
